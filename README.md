@@ -3,4 +3,6 @@ We experiment with training XGBoost models to predict the outcomes of games in t
 
 - The file Premiere_League_Regression approaches the problem as one a pair of regression problems: one for the home score and one for the away score. It predicts the correct score around 11.4% of the time.
 
+- The file Premiere_League_Regression3 is an updated version of the above that includes fresh data for the 26-27 season.
+
 There will be no effort to productionise any this.
